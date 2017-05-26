@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Login Mondule - Welcome Page</title>
 </head>
 <body>
 
@@ -18,7 +18,7 @@
 	Welcome ${username} <br>
 	Click the following link to view the video list
 	<a href=video.jsp>Videos here</a>
-	
+	<br>
 	<form action="Logout">
 		<input type="submit" value="Logout">
 	</form>

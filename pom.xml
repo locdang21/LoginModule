@@ -30,6 +30,9 @@
         <configuration>
           <warSourceDirectory>WebContent</warSourceDirectory>
         </configuration>
+		<configuration>
+          <warName>LoginModule.war</warName>
+        </configuration
       </plugin>
     </plugins>
   </build>

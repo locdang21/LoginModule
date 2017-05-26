@@ -16,7 +16,7 @@
 	%>
 
 	Welcome ${username} <br>
-	Click the following link to view the video list
+	Click the following link to view the video page
 	<a href=video.jsp>Videos here</a>
 	<br>
 	<form action="Logout">
